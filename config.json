@@ -1,0 +1,24 @@
+{
+  "port": 8686,
+  "paperWidthMM": 80,
+  "maxRetry": 3,
+  "printers": {
+    "default_bill": "BILL",
+    "default_kitchen": "tcp://192.168.1.250:9100",
+    "UONG": "tcp://192.168.1.250:9100",
+    "AN": "tcp://192.168.1.250:9100",
+    "NUONG": "tcp://192.168.1.251:9100"
+  },
+  "shopInfo": {
+    "customerId": "QlSEalE4v0OlMZGgZutz",
+    "branchId": "ojhGfGtDyx3psCtg3ff5"
+  },
+  "firebaseConfig": {
+    "apiKey": "AIzaSyC8HNG9WQ9HTjYdF3MY77kSNOfQnTIAt0Y",
+    "authDomain": "ace-pos-online.firebaseapp.com",
+    "projectId": "ace-pos-online",
+    "storageBucket": "ace-pos-online.firebasestorage.app",
+    "messagingSenderId": "1050995344318",
+    "appId": "1:1050995344318:web:34126ed061ec03ae9f6fef"
+  }
+}
